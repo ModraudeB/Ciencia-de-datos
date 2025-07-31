@@ -1,0 +1,13 @@
+name: final-stocks
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - yfinance
+  - beautifulsoup4
+  - requests
+  - "plotly>=5"
+  - pandas
+  - jupyterlab
+  - papermill
